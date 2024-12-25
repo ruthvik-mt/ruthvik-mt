@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruthvik M T</h1>
 <h3 align="center">A passionate Full Stack Dev</h3>
 
-- 🔭 I’m currently working on [Mentor-Mentee Platform](https://github.com/Ruthvik101/Mentor-Mentee-Platform)
+- 🔭 I’m currently working on [Exclusive-Mentor-Mentee Platform](https://github.com/Ruthvik101/Exclusive-Mentor-Mentee-Platform.git)
 
 - 🌱 I’m currently learning **TailwindCSS, Flutter, CSSGrid**
 
