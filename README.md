@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ruthvik-m-t-aa255024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruthvikmt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ruthvikmt001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ruthvikmt001" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ruthvikthandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ruthvikthandey" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ruthvikmt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ruthvikthandey" height="30" width="40" /></a>
 <a href="https://x.com/RuthvikMT1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruthvikmt1" height="30" width="40" /></a>
 <a href="https://codepen.io/Ruthvik-M-T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work" height="30" width="40" /></a>
 </p>
