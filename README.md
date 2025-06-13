@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthvik-mt&show_icons=true&locale=en&layout=compact" alt="ruthvik-mt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthvik-mt&" alt="ruthvik-mt" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruthvik-mt)
 
