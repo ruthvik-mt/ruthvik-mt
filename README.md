@@ -23,10 +23,10 @@
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="40" height="40"/>
 </a>
 <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer">
-  <img src="/path/to/shadcn-ui-logo.svg" alt="Shadcn UI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" alt="Shadcn UI" width="40" height="40" />
 </a>
 <a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
-  <img src="/path/to/google-colab-logo.svg" alt="Google Colab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="40" height="40" />
 </a>
  </p>
 
