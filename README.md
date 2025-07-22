@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ZKPass-Passwordless Authentication with Zero-Knowledge Proofs](https://github.com/ruthvik-mt/ZKPass-Passwordless-Authentication-with-Zero-Knowledge-Proofs.git)
 
-- 🌱 I’m currently learning **TailwindCSS, Docker, CSSGrid**
+- 🌱 I’m currently learning **TailwindCSS, Docker, SpringBoot**
 
 - 💬 Ask me about **Reactjs, Nodejs, HTML**
 
