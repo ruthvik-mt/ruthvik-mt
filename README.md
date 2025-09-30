@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TailwindCSS, Docker, SpringBoot**
 
-- 💬 Ask me about **Reactjs, Nodejs, HTML**
+- 💬 Ask me about **React.js, Nex.js, HTML**
 
 - 📫 How to reach me **ruthvikmt001@gmail.com**
 
