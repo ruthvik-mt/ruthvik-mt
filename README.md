@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **ZKPass – Passwordless Authentication using Zero-Knowledge Proofs**
+- 🔭 Currently working on [ZKPass-Passwordless Authentication with Zero-Knowledge Proofs](https://github.com/ruthvik-mt/ZKPass-Passwordless-Authentication-with-Zero-Knowledge-Proofs.git)
 - 🌱 Learning **Tailwind CSS, Docker, Spring Boot**
 - 💬 Ask me about **React.js, Next.js, HTML, CSS**
 - 📫 Reach me at **ruthvikmt001@gmail.com**
