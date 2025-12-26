@@ -56,19 +56,36 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvik-mt&layout=compact&cache_seconds=86400" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ruthvik-mt&show_icons=true&theme=radical&count_private=true"
+    alt="Ruthvik’s GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvik-mt&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ruthvik-mt&cache_seconds=86400" 
+  <img
+    src="https://streak-stats.demolab.com?user=ruthvik-mt&theme=radical"
     alt="GitHub Streak"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://visitor-badge.glitch.me/badge?page_id=ruthvik-mt.ruthvik-mt"
+    alt="Profile Views"
+  />
+</p>
+
 
