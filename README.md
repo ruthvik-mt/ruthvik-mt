@@ -2,7 +2,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science student who enjoys building reliable, secure and user-focused applications. I like working across the full stack, exploring modern web technologies and understanding how systems work behind the scenes. I’m driven by solving real-world problems, improving performance and security and constantly sharpening my skills through projects, internships and open-source work.
+I’m a Computer Science student who enjoys building reliable, secure and user-focused applications.  
+I like working across the full stack, exploring modern web technologies and understanding how systems work behind the scenes.  
+I’m driven by solving real-world problems, improving performance and security and constantly sharpening my skills through projects, internships and open-source work.
 
 ---
 
@@ -70,3 +72,5 @@ I’m a Computer Science student who enjoys building reliable, secure and user-f
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
+📫 How to reach me **ruthvikmt001@gmail.com**
