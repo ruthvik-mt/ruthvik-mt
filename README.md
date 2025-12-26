@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science student interested in developing reliable, secure and user-focused applications.
+I’m a Computer Science student specialized in developing reliable, secure and user-focused applications.
 I like working across the full stack, exploring modern web technologies and understanding how systems work behind the scenes.
 I’m driven by solving real-world problems, improving performance and security and steadily sharpening my skills through projects, internships and open-source work.
 
