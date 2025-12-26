@@ -1,9 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Ruthvik M T</h1>
-<p align="center">
-  <b>A passionate Developer</b>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
