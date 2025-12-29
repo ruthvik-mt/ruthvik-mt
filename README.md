@@ -71,5 +71,6 @@ I’m a Computer Science student focused on developing reliable, secure and user
   </a>
 </p>
 
-📫 How to reach me **[ruthvikmt001@gmail.com](https://mail.google.com/mail/u/0/#starred?compose=new)**
+📫📫 How to reach me **[ruthvikmt001@gmail.com](mailto:ruthvikmt001@gmail.com)**
+
 
