@@ -36,6 +36,12 @@ I’m a Computer Science student focused on developing reliable, secure and user
   <a href="https://vitejs.dev" target="_blank"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> </a> 
   <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </a> 
   <a href="https://www.postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </a> 
+  <a href="https://www.cloudflare.com" target="_blank"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+</a>
+
 </p>
 
 ---
